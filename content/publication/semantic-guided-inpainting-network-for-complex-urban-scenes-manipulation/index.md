@@ -8,7 +8,7 @@ authors:
   - Elisa Ricci
   - Bruno Lepri
   - Marco De Nadai
-publication: IEEE ICPR 2020
+publication: IEEE ICPR
 draft: false
 featured: false
 tags:
