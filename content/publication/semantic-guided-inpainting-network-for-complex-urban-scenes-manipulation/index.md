@@ -19,5 +19,6 @@ image:
   focal_point: Smart
   preview_only: false
 url_pdf: "https://arxiv.org/pdf/2010.09334.pdf"
+url_code: "https://github.com/PierfrancescoArdino/SGINet"
 date: 2021-01-01T15:54:38.930Z
 ---
