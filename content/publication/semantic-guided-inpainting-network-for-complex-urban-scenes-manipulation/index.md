@@ -18,6 +18,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-url_pdf: https://arxiv.org/pdf/2010.09334.pdf
+url_pdf: "https://arxiv.org/pdf/2010.09334.pdf"
 date: 2021-01-01T15:54:38.930Z
 ---
