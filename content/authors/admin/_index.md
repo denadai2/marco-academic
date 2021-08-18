@@ -1,5 +1,6 @@
 ---
-role: Professor of Artificial Intelligence
+role: Research Scientist
+avatar_filename: 10154744_10201668264097487_314592554_n-copy.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -37,7 +38,7 @@ education:
       year: 2012
 superuser: true
 highlight_name: false
-title: Nelson Bighetti
+title: Marco De Nadai
 email: ""
 ---
 Welcome! I am a Research Scientist at the [Bruno Kessler Foundation (FBK)](https://www.fbk.eu/en/), Trento, Italy. My work focuses on computer vision, unsupervised learning, and human behavioural understanding through multi-modal data. This includes modelling human mobility and perception, photorealistic object manipulation and animation, video synthesis and image-to-image translation. My work has been published in multiple top conference papers and journals.
