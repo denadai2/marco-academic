@@ -34,5 +34,6 @@ image:
   filename: screenshot-2021-08-19-at-10.40.36.png
   focal_point: Smart
   preview_only: false
+url_pdf: "https://arxiv.org/pdf/2106.03746.pdf"
 date: 2021-08-19T08:30:31.465Z
 ---
