@@ -45,6 +45,8 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2016-08-01T16:43:57.863Z
+url_pdf: "https://arxiv.org/pdf/1608.00462.pdf"
+url_code: "https://github.com/denadai2/google_street_view_deep_neural"
 ---
 ## Press
 
