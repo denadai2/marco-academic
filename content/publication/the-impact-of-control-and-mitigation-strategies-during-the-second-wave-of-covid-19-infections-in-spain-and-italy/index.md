@@ -37,5 +37,6 @@ image:
   filename: screenshot-2021-08-19-at-10.49.36.png
   focal_point: Smart
   preview_only: false
+url_pdf: "https://www.medrxiv.org/content/10.1101/2021.05.11.21256876v1.full.pdf"
 date: 2021-05-11T08:48:08.057Z
 ---
