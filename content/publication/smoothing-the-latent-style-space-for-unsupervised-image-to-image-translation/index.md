@@ -1,17 +1,4 @@
 ---
-title: Smoothing the Latent Style Space for Unsupervised Image-to-Image Translation
-publication_types:
-  - "1"
-authors:
-  - Yahui Liu
-  - Enver Sangineto
-  - Yajing Chen
-  - Linchao Bao
-  - Haoxian Zhang
-  - Nicu Sebe
-  - Bruno Lepri
-  - Wei Wang
-  - Marco De Nadai
 abstract: "Image-to-Image (I2I) multi-domain translation models are usually
   evaluated also using the quality of their semantic interpolation results.
   However, state-of-the-art models frequently show abrupt changes in the image
@@ -27,14 +14,28 @@ abstract: "Image-to-Image (I2I) multi-domain translation models are usually
   experiments on different datasets show that it can significantly boost the
   quality of the generated images and the graduality of the interpolations. "
 draft: false
+url_pdf: https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Smoothing_the_Disentangled_Latent_Style_Space_for_Unsupervised_Image-to-Image_Translation_CVPR_2021_paper.pdf
+title: Smoothing the Latent Style Space for Unsupervised Image-to-Image Translation
+publication_types:
+  - "1"
+authors:
+  - Yahui Liu
+  - Enver Sangineto
+  - Yajing Chen
+  - Linchao Bao
+  - Haoxian Zhang
+  - Nicu Sebe
+  - Bruno Lepri
+  - Wei Wang
+  - Marco De Nadai
+publication: CVPR
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-url_code: "https://github.com/yhlleo/SmoothingLatentSpace"
-url_pdf: "https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Smoothing_the_Disentangled_Latent_Style_Space_for_Unsupervised_Image-to-Image_Translation_CVPR_2021_paper.pdf"
 date: 2021-08-18T13:55:34.954Z
+url_code: https://github.com/yhlleo/SmoothingLatentSpace
 ---
 ![](teaser.jpg)
 
