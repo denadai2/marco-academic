@@ -34,6 +34,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-url_pdf: "https://dl.acm.org/doi/abs/10.1145/3394171.3413785"
-date: 2021-08-19T09:02:18.400Z
+date: 2020-12-10T10:02:18.400Z
 ---
