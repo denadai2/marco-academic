@@ -32,6 +32,8 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+url_code: "https://github.com/yhlleo/SmoothingLatentSpace"
+url_pdf: "https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Smoothing_the_Disentangled_Latent_Style_Space_for_Unsupervised_Image-to-Image_Translation_CVPR_2021_paper.pdf"
 date: 2021-08-18T13:55:34.954Z
 ---
 ![](teaser.jpg)
