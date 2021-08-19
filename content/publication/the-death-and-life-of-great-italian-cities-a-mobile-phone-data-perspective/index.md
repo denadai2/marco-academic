@@ -25,6 +25,8 @@ image:
   focal_point: Smart
   preview_only: false
 summary: ""
+url_pdf: "https://arxiv.org/pdf/1603.04012.pdf"
+url_code: "https://github.com/denadai2/jacobs_urban_planning"
 date: 2016-03-13T16:46:08.184Z
 ---
 ## Press
