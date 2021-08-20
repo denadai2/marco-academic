@@ -36,4 +36,6 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2021-08-20T11:28:16.933Z
+url_pdf: "https://www.nature.com/articles/s41598-019-47493-x#citeas"
+url_code: "https://github.com/denadai2/apps-mobility-capacity-strategy"
 ---
