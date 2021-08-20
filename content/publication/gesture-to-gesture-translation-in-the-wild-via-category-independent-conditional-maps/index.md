@@ -35,4 +35,6 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2019-07-31T11:31:01.672Z
+url_code: "https://github.com/yhlleo/TriangleGAN"
+url_pdf: "https://arxiv.org/pdf/1907.05916.pdf"
 ---
