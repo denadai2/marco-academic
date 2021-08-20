@@ -29,4 +29,6 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2018-08-07T10:24:35.501Z
+url_code: "https://github.com/denadai2/real-estate-neighborhood-prediction"
+url_pdf: "https://arxiv.org/pdf/1808.02547.pdf"
 ---
