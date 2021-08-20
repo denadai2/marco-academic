@@ -1,14 +1,4 @@
 ---
-title: " Strategies and limitations in app usage and human mobility"
-publication_types:
-  - "2"
-authors:
-  - Marco De Nadai
-  - Angelo Cardoso
-  - Antonio Lima
-  - Bruno Lepri
-  - Nuria Oliver
-publication: Scientific Reports
 abstract: "Cognition has been found to constrain several aspects of human
   behaviour, such as the number of friends and the number of favourite places a
   person keeps stable over time. This limitation has been empirically defined in
@@ -30,12 +20,22 @@ abstract: "Cognition has been found to constrain several aspects of human
   behaviour in the physical and digital worlds which bridges research studies
   from Computer Science, Social Physics and Computational Social Sciences."
 draft: false
+url_pdf: https://www.nature.com/articles/s41598-019-47493-x
+title: " Strategies and limitations in app usage and human mobility"
+publication_types:
+  - "2"
+authors:
+  - Marco De Nadai
+  - Angelo Cardoso
+  - Antonio Lima
+  - Bruno Lepri
+  - Nuria Oliver
+publication: Scientific Reports
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-08-20T11:28:16.933Z
-url_pdf: "https://www.nature.com/articles/s41598-019-47493-x"
-url_code: "https://github.com/denadai2/apps-mobility-capacity-strategy"
+date: 2019-07-11T11:28:16.933Z
+url_code: https://github.com/denadai2/apps-mobility-capacity-strategy
 ---
