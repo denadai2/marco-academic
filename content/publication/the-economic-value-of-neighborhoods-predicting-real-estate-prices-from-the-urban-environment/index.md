@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Marco De Nadai
   - Bruno Lepri
-publication: DSAA
+publication: IEEE DSAA
 abstract: Housing costs have a significant impact on individuals, families,
   businesses, and governments. Recently, online companies such as Zillow have
   developed proprietary systems that provide automated estimates of housing
@@ -29,6 +29,4 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2018-08-07T10:24:35.501Z
-url_code: "https://github.com/denadai2/real-estate-neighborhood-prediction"
-url_pdf: "https://arxiv.org/pdf/1808.02547.pdf"
 ---
