@@ -41,4 +41,6 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2021-08-24T10:30:45.416Z
+url_pdf: "https://www.nature.com/articles/s41598-020-70808-2"
+url_code: "https://github.com/denadai2/bayesian-crime-multiple-cities/"
 ---
