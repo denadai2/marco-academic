@@ -34,5 +34,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+url_pdf: "https://arxiv.org/abs/2003.06788"
+url_code: "https://github.com/yhlleo/GMM-UNIT"
 date: 2020-03-15T11:28:52.129Z
 ---
