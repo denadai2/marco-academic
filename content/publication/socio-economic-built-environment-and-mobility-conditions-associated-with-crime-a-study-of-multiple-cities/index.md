@@ -1,14 +1,4 @@
 ---
-title: "Socio-economic, built environment, and mobility conditions associated
-  with crime: A study of multiple cities"
-publication_types:
-  - "2"
-authors:
-  - Marco De Nadai
-  - Yanyan Xu
-  - Emmanuel Letouzé
-  - Marta C. González
-  - Bruno Lepri
 abstract: Nowadays, 23% of the world population lives in multi-million cities.
   In these metropolises, criminal activity is much higher and violent than in
   either small cities or rural areas. Thus, understanding what factors influence
@@ -33,6 +23,17 @@ abstract: Nowadays, 23% of the world population lives in multi-million cities.
   crime very differently from one city to another. Thus there is clearly no “one
   fits all” model.
 draft: false
+url_pdf: https://www.nature.com/articles/s41598-020-70808-2
+title: "Socio-economic, built environment, and mobility conditions associated
+  with crime: A study of multiple cities"
+publication_types:
+  - "2"
+authors:
+  - Marco De Nadai
+  - Yanyan Xu
+  - Emmanuel Letouzé
+  - Marta C. González
+  - Bruno Lepri
 featured: false
 categories:
   - Computational Social Science
@@ -40,7 +41,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-08-24T10:30:45.416Z
-url_pdf: "https://www.nature.com/articles/s41598-020-70808-2"
-url_code: "https://github.com/denadai2/bayesian-crime-multiple-cities/"
+date: 2020-08-17T10:30:45.416Z
+url_code: https://github.com/denadai2/bayesian-crime-multiple-cities/
 ---
