@@ -16,3 +16,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+{{< speakerdeck 4e8126e72d853c0060001f97 >}}
