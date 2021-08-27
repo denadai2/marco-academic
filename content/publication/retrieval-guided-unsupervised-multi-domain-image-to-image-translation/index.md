@@ -35,4 +35,6 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2020-12-10T10:02:18.400Z
+url_code: "https://github.com/yhlleo/RG-UNIT"
+url_pdf: "https://arxiv.org/pdf/2008.04991.pdf"
 ---
