@@ -40,4 +40,6 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2020-08-10T14:44:21.975Z
+url_pdf: "https://arxiv.org/pdf/2008.04200.pdf"
+url_code: "https://github.com/yhlleo/DWC-GAN"
 ---
