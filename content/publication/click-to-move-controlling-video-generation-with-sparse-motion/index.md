@@ -29,4 +29,6 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2021-08-27T14:48:23.959Z
+url_code: "https://github.com/PierfrancescoArdino/C2M"
+url_pdf: "https://arxiv.org/pdf/2108.08815.pdf"
 ---
