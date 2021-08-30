@@ -1,6 +1,6 @@
 ---
 title: Strategies and limitations in app usage and human mobility
-abstract: Talk
+abstract: Talk about a paper recently published in Scientific Reports.
 location: Amsterdam, Netherlands
 date: 2019-07-01T14:53:38.590Z
 date_end: 2019-07-01T14:53:00.000Z
