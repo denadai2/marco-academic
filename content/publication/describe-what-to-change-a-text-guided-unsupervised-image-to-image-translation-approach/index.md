@@ -27,13 +27,13 @@ title: "Describe What to Change: A Text-guided Unsupervised Image-to-Image
 publication_types:
   - "1"
 authors:
-  - Yahui Liu
-  - Marco De Nadai
-  - Deng Cai
-  - Huayang Li
-  - Xavier Alameda-Pineda
-  - Nicu Sebe
-  - Bruno Lepri
+  - Y. Liu
+  - M. De Nadai
+  - D. Cai
+  - H. Li
+  - X. Alameda-Pineda
+  - N. Sebe
+  - B. Lepri
 publication: ACM MM 2019
 featured: false
 image:
