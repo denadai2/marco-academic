@@ -13,12 +13,12 @@ title: "The Death and Life of Great Italian Cities: A Mobile Phone Data Perspect
 publication_types:
   - "1"
 authors:
-  - Marco De Nadai
-  - Jacopo Staiano
-  - Roberto Larcher
-  - Nicu Sebe
-  - Daniele Quercia
-  - Bruno Lepri
+  - M. De Nadai
+  - J. Staiano
+  - R. Larcher
+  - N. Sebe
+  - D. Quercia
+  - B. Lepri
 publication: WWW 2016
 featured: false
 image:
