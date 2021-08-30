@@ -24,86 +24,101 @@ Did you ever have a piece of code that lasted hours? I did (and do). The problem
 
 Search the BotFather, the official bot that allows you to create bots :))
 
-![Telegram BotFather](/images/telegram_notificator2.jpg)
+![Telegram BotFather](telegram_notificator2.jpg)
 
 Then, create a new bot:
 
-    /newbot
+```
+/newbot
+```
 
 Choose a name for your bot
 
-    UltraNotifier
+```
+UltraNotifier
+```
 
 Choose a username for your bot, which must end with "_bot"
 
-    ultranotifier_bot
+```
+ultranotifier_bot
+```
 
 Once the bot is created, you will have a long string that is the TOKENID. The message will be similar to:
 
-    Use this token to access the HTTP API:
+```
+Use this token to access the HTTP API:
+```
 
 Now, the bot is only the "guy" who will send you the messages. It has to know the chat where to send them. For this reason, got to the search bar of Telegram, and search your bot. Then, start the bot:
 
-    /start
+```
+/start
+```
 
 You can now go to the website `https://api.telegram.org/bot[TOKENID]/getUpdates` (replacing `[TOKENID]` with the ID you received before) and search for your id.
 
-![Telegram chat id](/images/telegram_notificator3.png)
+![Telegram chat id](telegram_notificator3.png)
 
 Now you are ready to use a command line code to send your first notification
 
-    $ curl -s -X POST https://api.telegram.org/bot[TOKENID]/sendMessage -d chat_id=[ID] -d text="Hello world"
+```
+$ curl -s -X POST https://api.telegram.org/bot[TOKENID]/sendMessage -d chat_id=[ID] -d text="Hello world"
+```
 
 ## Python logger
 
 I decided to write a simple Python logger that sends you a notification/message whenever something happens. Here you have the simple code, with the configuration before the class.
 
+```
+import requests
+from logging import Handler, Formatter
+import logging
+import datetime
+ 
+TELEGRAM_TOKEN = 'PUT HERE YOUR TOKENID'
+TELEGRAM_CHAT_ID = 'PUT HERE YOUR CHATID'
 
-    import requests
-    from logging import Handler, Formatter
-    import logging
-    import datetime
-     
-    TELEGRAM_TOKEN = 'PUT HERE YOUR TOKENID'
-    TELEGRAM_CHAT_ID = 'PUT HERE YOUR CHATID'
-
-    class RequestsHandler(Handler):
-    	def emit(self, record):
-    		log_entry = self.format(record)
-    		payload = {
-    			'chat_id': TELEGRAM_CHAT_ID,
-    			'text': log_entry,
-    			'parse_mode': 'HTML'
-    		}
-    		return requests.post("https://api.telegram.org/bot{token}/sendMessage".format(token=TELEGRAM_TOKEN),
-    							 data=payload).content
-     
-    class LogstashFormatter(Formatter):
-    	def __init__(self):
-    		super(LogstashFormatter, self).__init__()
-        
-    	def format(self, record):
-    		t = datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')
-        
-    		return "<i>{datetime}</i><pre>\n{message}</pre>".format(message=record.msg, datetime=t)
+class RequestsHandler(Handler):
+	def emit(self, record):
+		log_entry = self.format(record)
+		payload = {
+			'chat_id': TELEGRAM_CHAT_ID,
+			'text': log_entry,
+			'parse_mode': 'HTML'
+		}
+		return requests.post("https://api.telegram.org/bot{token}/sendMessage".format(token=TELEGRAM_TOKEN),
+							 data=payload).content
+ 
+class LogstashFormatter(Formatter):
+	def __init__(self):
+		super(LogstashFormatter, self).__init__()
+    
+	def format(self, record):
+		t = datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')
+    
+		return "<i>{datetime}</i><pre>\n{message}</pre>".format(message=record.msg, datetime=t)
+```
 
 It can be simply used as all the usual logger handlers:
 
-	logger = logging.getLogger('trymeApp')
-	logger.setLevel(logging.WARNING)
-     
-	handler = RequestsHandler()
-	formatter = LogstashFormatter()
-	handler.setFormatter(formatter)
-	logger.addHandler(handler)
-     
-	logger.setLevel(logging.WARNING)
-     
-	logger.error('We have a problem')
+```
+logger = logging.getLogger('trymeApp')
+logger.setLevel(logging.WARNING)
+ 
+handler = RequestsHandler()
+formatter = LogstashFormatter()
+handler.setFormatter(formatter)
+logger.addHandler(handler)
+ 
+logger.setLevel(logging.WARNING)
+ 
+logger.error('We have a problem')
+```
 
 The message will be:
 
-![Telegram error notification](/images/telegram_notificator1.png)
+![Telegram error notification](telegram_notificator1.png)
 
 ## Java, Bash, others
 
