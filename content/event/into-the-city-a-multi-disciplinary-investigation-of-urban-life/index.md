@@ -2,8 +2,8 @@
 title: "Into the City: a Multi-Disciplinary Investigation of Urban Life"
 abstract: Talk of my PhD defense
 location: Trento, Italy
-date: 2020-05-12T11:40:24.156Z
-date_end: 2020-05-11T22:00:00.000Z
+date: 2019-05-12T11:40:00.000Z
+date_end: 2019-05-12T11:40:00.000Z
 all_day: false
 event: PhD defense
 event_url: http://www.marcodena.it
