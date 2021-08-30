@@ -6,13 +6,13 @@ title: "Living in a pandemic: adaptation of individual mobility and social
 publication_types:
   - "3"
 authors:
-  - Lorenzo Lucchini
-  - Simone Centellegher
-  - Luca Pappalardo
-  - Riccardo Gallotti
-  - Filippo Privitera
-  - Bruno Lepri
-  - Marco De Nadai
+  - L. Lucchini
+  - S. Centellegher
+  - L. Pappalardo
+  - R. Gallotti
+  - F. Privitera
+  - B. Lepri
+  - M. De Nadai
 publication: Preprint
 featured: false
 image:
