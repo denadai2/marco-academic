@@ -22,12 +22,12 @@ title: "GMM-UNIT: Unsupervised Multi-Domain and Multi-Modal Image-to-Image
 publication_types:
   - "3"
 authors:
-  - Yahui Liu
-  - Marco De Nadai
-  - Jian Yao
-  - Nicu Sebe
-  - Bruno Lepri
-  - Xavier Alameda-Pineda
+  - Y. Liu
+  - M. De Nadai
+  - J. Yao
+  - N. Sebe
+  - B. Lepri
+  - X. Alameda-Pineda
 publication: Preprint
 featured: false
 categories:
