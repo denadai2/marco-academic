@@ -1,15 +1,4 @@
 ---
-title: Retrieval guided unsupervised multi-domain image to image translation
-publication_types:
-  - "1"
-authors:
-  - Raul Gomez
-  - Yahui Liu
-  - Marco De Nadai
-  - Dimosthenis Karatzas
-  - Bruno Lepri
-  - Nicu Sebe
-publication: ACM MM
 abstract: Image to image translation aims to learn a mapping that transforms an
   image from one visual domain to another. Recent works assume that images
   descriptors can be disentangled into a domain-invariant content representation
@@ -29,12 +18,23 @@ abstract: Image to image translation aims to learn a mapping that transforms an
   benefit from additional unlabeled data and help image-to-image translation
   models in the presence of scarce data.
 draft: false
+url_pdf: https://arxiv.org/pdf/2008.04991.pdf
+title: Retrieval guided unsupervised multi-domain image to image translation
+publication_types:
+  - "1"
+authors:
+  - Raul Gomez
+  - Yahui Liu
+  - Marco De Nadai
+  - Dimosthenis Karatzas
+  - Bruno Lepri
+  - Nicu Sebe
+publication: ACM MM 2018
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 date: 2020-12-10T10:02:18.400Z
-url_code: "https://github.com/yhlleo/RG-UNIT"
-url_pdf: "https://arxiv.org/pdf/2008.04991.pdf"
+url_code: https://github.com/yhlleo/RG-UNIT
 ---
