@@ -28,7 +28,7 @@ authors:
   - Bruno Lepri
   - Wei Wang
   - Marco De Nadai
-publication: CVPR
+publication: CVPR 2021
 featured: false
 image:
   filename: featured
