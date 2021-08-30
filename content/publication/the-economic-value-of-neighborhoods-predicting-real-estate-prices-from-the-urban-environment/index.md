@@ -4,8 +4,8 @@ title: "The economic value of neighborhoods: Predicting real estate prices from
 publication_types:
   - "1"
 authors:
-  - Marco De Nadai
-  - Bruno Lepri
+  - M. De Nadai
+  - B. Lepri
 publication: IEEE DSAA
 abstract: Housing costs have a significant impact on individuals, families,
   businesses, and governments. Recently, online companies such as Zillow have
