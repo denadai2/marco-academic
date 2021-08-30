@@ -35,5 +35,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-08-30T16:22:07.494Z
+date: 2021-06-30T16:22:07.494Z
+url_code: ""
+url_pdf: "https://arxiv.org/abs/2006.06584"
 ---
