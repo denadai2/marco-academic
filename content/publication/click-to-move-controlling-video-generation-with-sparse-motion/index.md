@@ -19,7 +19,7 @@ publication_types:
   - "1"
 authors:
   - P. Ardino
-  - <b>M. De Nadai</b>
+  - __M. De Nadai__
   - B. Lepri
   - E. Ricci
   - S. Lathuilière
