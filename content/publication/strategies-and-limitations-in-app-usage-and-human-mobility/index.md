@@ -25,11 +25,11 @@ title: " Strategies and limitations in app usage and human mobility"
 publication_types:
   - "2"
 authors:
-  - Marco De Nadai
-  - Angelo Cardoso
-  - Antonio Lima
-  - Bruno Lepri
-  - Nuria Oliver
+  - M. De Nadai
+  - A. Cardoso
+  - A. Lima
+  - B. Lepri
+  - N. Oliver
 publication: Scientific Reports
 featured: false
 image:
