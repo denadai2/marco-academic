@@ -1,14 +1,4 @@
 ---
-title: Efficient Training of Visual Transformers with Small-Size Datasets
-publication_types:
-  - "3"
-authors:
-  - Yahui Liu
-  - Enver Sangineto
-  - Wei Bi
-  - Nicu Sebe
-  - Bruno Lepri
-  - Marco De Nadai
 abstract: Visual Transformers (VTs) are emerging as an architectural paradigm
   alternative to Convolutional networks (CNNs). Differently from CNNs, VTs can
   capture global relations between image elements and they potentially have a
@@ -29,11 +19,22 @@ abstract: Visual Transformers (VTs) are emerging as an architectural paradigm
   and datasets, we show that our method can improve (sometimes dramatically) the
   final accuracy of the VTs. The code will be available upon acceptance.
 draft: false
+url_pdf: https://arxiv.org/pdf/2106.03746.pdf
+title: Efficient Training of Visual Transformers with Small-Size Datasets
+publication_types:
+  - "3"
+authors:
+  - Yahui Liu
+  - Enver Sangineto
+  - Wei Bi
+  - Nicu Sebe
+  - Bruno Lepri
+  - Marco De Nadai
+publication: Preprint
 featured: false
 image:
   filename: screenshot-2021-08-19-at-10.40.36.png
   focal_point: Smart
   preview_only: false
-url_pdf: "https://arxiv.org/pdf/2106.03746.pdf"
 date: 2021-08-19T08:30:31.465Z
 ---
