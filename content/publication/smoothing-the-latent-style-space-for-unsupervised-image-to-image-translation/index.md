@@ -19,15 +19,15 @@ title: Smoothing the Latent Style Space for Unsupervised Image-to-Image Translat
 publication_types:
   - "1"
 authors:
-  - Yahui Liu
-  - Enver Sangineto
-  - Yajing Chen
-  - Linchao Bao
-  - Haoxian Zhang
-  - Nicu Sebe
-  - Bruno Lepri
-  - Wei Wang
-  - Marco De Nadai
+  - Y. Liu
+  - E. Sangineto
+  - Y. Chen
+  - L. Bao
+  - H. Zhang
+  - N. Sebe
+  - B. Lepri
+  - W. Wang
+  - M. De Nadai
 publication: CVPR 2021
 featured: false
 image:
