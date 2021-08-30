@@ -1,18 +1,4 @@
 ---
-title: Are Safer Looking Neighborhoods More Lively? A Multimodal Investigation
-  into Urban Life
-publication_types:
-  - "1"
-authors:
-  - Marco De Nadai
-  - Radu L. Vieriu
-  - Gloria Zen
-  - Stefan Dragicevic
-  - Nikhil Naik
-  - Michele Caraviello
-  - Cesar A. Hidalgo
-  - Nicu Sebe
-  - Bruno Lepri
 abstract: "Policy makers, urban planners, architects, sociologists, and
   economists are interested in creating urban areas that are both lively and
   safe. But are the safety and liveliness of neighborhoods independent
@@ -39,14 +25,29 @@ abstract: "Policy makers, urban planners, architects, sociologists, and
   that urban appearance modulates levels of human activity and, consequently, a
   neighborhood's rate of natural surveillance."
 draft: false
+url_pdf: https://arxiv.org/pdf/1608.00462.pdf
+title: Are Safer Looking Neighborhoods More Lively? A Multimodal Investigation
+  into Urban Life
+publication_types:
+  - "1"
+authors:
+  - Marco De Nadai
+  - Radu L. Vieriu
+  - Gloria Zen
+  - Stefan Dragicevic
+  - Nikhil Naik
+  - Michele Caraviello
+  - Cesar A. Hidalgo
+  - Nicu Sebe
+  - Bruno Lepri
+publication: ACM MM 2016
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 date: 2016-08-01T16:43:57.863Z
-url_pdf: "https://arxiv.org/pdf/1608.00462.pdf"
-url_code: "https://github.com/denadai2/google_street_view_deep_neural"
+url_code: https://github.com/denadai2/google_street_view_deep_neural
 ---
 ## Press
 
