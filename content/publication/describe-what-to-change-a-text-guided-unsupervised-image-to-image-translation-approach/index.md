@@ -1,17 +1,4 @@
 ---
-title: "Describe What to Change: A Text-guided Unsupervised Image-to-Image
-  Translation Approach"
-publication_types:
-  - "1"
-authors:
-  - Yahui Liu
-  - Marco De Nadai
-  - Deng Cai
-  - Huayang Li
-  - Xavier Alameda-Pineda
-  - Nicu Sebe
-  - Bruno Lepri
-publication: ACM MM
 abstract: 'Manipulating visual attributes of images through human-written text
   is a very challenging task. On the one hand, models have to learn the
   manipulation without the ground truth of the desired output. On the other
@@ -34,12 +21,25 @@ abstract: 'Manipulating visual attributes of images through human-written text
   believe our approach will pave the way to new avenues of research combining
   textual and speech commands with visual attributes. '
 draft: false
+url_pdf: https://arxiv.org/pdf/2008.04200.pdf
+title: "Describe What to Change: A Text-guided Unsupervised Image-to-Image
+  Translation Approach"
+publication_types:
+  - "1"
+authors:
+  - Yahui Liu
+  - Marco De Nadai
+  - Deng Cai
+  - Huayang Li
+  - Xavier Alameda-Pineda
+  - Nicu Sebe
+  - Bruno Lepri
+publication: ACM MM 2019
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 date: 2020-08-10T14:44:21.975Z
-url_pdf: "https://arxiv.org/pdf/2008.04200.pdf"
-url_code: "https://github.com/yhlleo/DWC-GAN"
+url_code: https://github.com/yhlleo/DWC-GAN
 ---
