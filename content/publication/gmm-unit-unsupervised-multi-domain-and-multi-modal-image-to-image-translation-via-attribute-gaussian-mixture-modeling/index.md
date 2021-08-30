@@ -1,15 +1,4 @@
 ---
-title: "GMM-UNIT: Unsupervised Multi-Domain and Multi-Modal Image-to-Image
-  Translation via Attribute Gaussian Mixture Modeling"
-publication_types:
-  - "3"
-authors:
-  - Yahui Liu
-  - Marco De Nadai
-  - Jian Yao
-  - Nicu Sebe
-  - Bruno Lepri
-  - Xavier Alameda-Pineda
 abstract: "Unsupervised image-to-image translation (UNIT) aims at learning a
   mapping between several visual domains by using unpaired training images.
   Recent studies have shown remarkable success for multiple domains but they
@@ -27,6 +16,19 @@ abstract: "Unsupervised image-to-image translation (UNIT) aims at learning a
   meaning that GMM-UNIT is a unifying framework for unsupervised image-to-image
   translation. "
 draft: false
+url_pdf: https://arxiv.org/abs/2003.06788
+title: "GMM-UNIT: Unsupervised Multi-Domain and Multi-Modal Image-to-Image
+  Translation via Attribute Gaussian Mixture Modeling"
+publication_types:
+  - "3"
+authors:
+  - Yahui Liu
+  - Marco De Nadai
+  - Jian Yao
+  - Nicu Sebe
+  - Bruno Lepri
+  - Xavier Alameda-Pineda
+publication: Preprint
 featured: false
 categories:
   - Computer vision
@@ -34,7 +36,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-url_pdf: "https://arxiv.org/abs/2003.06788"
-url_code: "https://github.com/yhlleo/GMM-UNIT"
 date: 2020-03-15T11:28:52.129Z
+url_code: https://github.com/yhlleo/GMM-UNIT
 ---
