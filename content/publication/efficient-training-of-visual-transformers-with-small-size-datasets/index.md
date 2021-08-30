@@ -24,12 +24,12 @@ title: Efficient Training of Visual Transformers with Small-Size Datasets
 publication_types:
   - "3"
 authors:
-  - Yahui Liu
-  - Enver Sangineto
-  - Wei Bi
-  - Nicu Sebe
-  - Bruno Lepri
-  - Marco De Nadai
+  - Y. Liu
+  - E. Sangineto
+  - W. Bi
+  - N. Sebe
+  - B. Lepri
+  - M. De Nadai
 publication: Preprint
 featured: false
 image:
