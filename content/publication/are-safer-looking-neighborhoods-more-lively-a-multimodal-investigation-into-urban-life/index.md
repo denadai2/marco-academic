@@ -31,15 +31,15 @@ title: Are Safer Looking Neighborhoods More Lively? A Multimodal Investigation
 publication_types:
   - "1"
 authors:
-  - Marco De Nadai
-  - Radu L. Vieriu
-  - Gloria Zen
-  - Stefan Dragicevic
-  - Nikhil Naik
-  - Michele Caraviello
-  - Cesar A. Hidalgo
-  - Nicu Sebe
-  - Bruno Lepri
+  - M. De Nadai
+  - R. L. Vieriu
+  - G. Zen
+  - S. Dragicevic
+  - N. Naik
+  - M. Caraviello
+  - C. A. Hidalgo
+  - N. Sebe
+  - B. Lepri
 publication: ACM MM 2016
 featured: false
 image:
