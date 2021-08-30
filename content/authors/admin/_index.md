@@ -4,10 +4,10 @@ avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
   - Human Behavioural Understanding
   - Computer Vision
   - Generative Networks
+  - Artificial Intelligence
 social:
   - icon: envelope
     icon_pack: fas
