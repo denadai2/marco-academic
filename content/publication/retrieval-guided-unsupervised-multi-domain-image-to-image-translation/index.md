@@ -29,7 +29,7 @@ authors:
   - Dimosthenis Karatzas
   - Bruno Lepri
   - Nicu Sebe
-publication: ACM MM 2018
+publication: ACM MM 2019
 featured: false
 image:
   filename: featured
