@@ -24,11 +24,11 @@ title: " Gesture-to-Gesture Translation in the Wild via Category-Independent
 publication_types:
   - "1"
 authors:
-  - Yahui Liu
-  - Marco De Nadai
-  - Gloria Zen
-  - Nicu Sebe
-  - Bruno Lepri
+  - Y. Liu
+  - M. De Nadai
+  - G. Zen
+  - N. Sebe
+  - B. Lepri
 publication: ACM MM 2018
 featured: false
 image:
