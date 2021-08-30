@@ -23,12 +23,12 @@ title: Retrieval guided unsupervised multi-domain image to image translation
 publication_types:
   - "1"
 authors:
-  - Raul Gomez
-  - Yahui Liu
-  - Marco De Nadai
-  - Dimosthenis Karatzas
-  - Bruno Lepri
-  - Nicu Sebe
+  - R. Gomez
+  - Y. Liu
+  - M. De Nadai
+  - D. Karatzas
+  - B. Lepri
+  - N. Sebe
 publication: ACM MM 2019
 featured: false
 image:
