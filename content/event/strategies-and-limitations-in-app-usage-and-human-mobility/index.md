@@ -16,6 +16,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-{{< speakerdeck 9951aee0382e0132d1604297f98471b0 >}}
 
-fghjkjhgnn
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;"><iframe src="https://speakerdeck.com/player/7d4833d4880a4036b1e0b8e89227fda4" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;"></iframe></div>
+
+
