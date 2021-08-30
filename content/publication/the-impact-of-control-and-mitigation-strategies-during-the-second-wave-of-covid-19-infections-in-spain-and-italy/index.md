@@ -1,13 +1,4 @@
 ---
-title: The Impact of Control and Mitigation Strategies during the Second Wave of
-  COVID-19 Infections in Spain and Italy
-publication_types:
-  - "3"
-authors:
-  - Marco De Nadai
-  - Kristof Roomp
-  - Bruno Lepri
-  - Nuria Oliver
 abstract: "European countries struggled to fight against the second and the
   third waves of the COVID-19 pandemic, as the Test-Trace-Isolate (TTI) strategy
   widely adopted over the summer and early fall failed to effectively contain
@@ -32,11 +23,21 @@ abstract: "European countries struggled to fight against the second and the
   citizen surveys to quickly and cheaply collect large-scale data to support and
   evaluate policy decisions to contrast the spread of the disease."
 draft: false
+url_pdf: https://www.medrxiv.org/content/10.1101/2021.05.11.21256876v1.full.pdf
+title: The Impact of Control and Mitigation Strategies during the Second Wave of
+  COVID-19 Infections in Spain and Italy
+publication_types:
+  - "3"
+authors:
+  - Marco De Nadai
+  - Kristof Roomp
+  - Bruno Lepri
+  - Nuria Oliver
+publication: Preprint
 featured: false
 image:
   filename: screenshot-2021-08-19-at-10.49.36.png
   focal_point: Smart
   preview_only: false
-url_pdf: "https://www.medrxiv.org/content/10.1101/2021.05.11.21256876v1.full.pdf"
 date: 2021-05-11T08:48:08.057Z
 ---
