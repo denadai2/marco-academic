@@ -34,6 +34,7 @@ authors:
   - Emmanuel Letouzé
   - Marta C. González
   - Bruno Lepri
+publication: Scientific Reports
 featured: false
 categories:
   - Computational Social Science
