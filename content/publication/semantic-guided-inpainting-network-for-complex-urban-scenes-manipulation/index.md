@@ -5,11 +5,11 @@ title: Semantic-Guided Inpainting Network for Complex Urban Scenes Manipulation
 publication_types:
   - "1"
 authors:
-  - Pierfrancesco Ardino
-  - Yahui Liu
-  - Elisa Ricci
-  - Bruno Lepri
-  - Marco De Nadai
+  - P. Ardino
+  - Y. Liu
+  - E. Ricci
+  - B. Lepri
+  - M. De Nadai
 publication: IEEE ICPR 2020
 featured: false
 tags:
