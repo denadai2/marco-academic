@@ -1,15 +1,4 @@
 ---
-title: " Gesture-to-Gesture Translation in the Wild via Category-Independent
-  Conditional Maps"
-publication_types:
-  - "1"
-authors:
-  - Yahui Liu
-  - Marco De Nadai
-  - Gloria Zen
-  - Nicu Sebe
-  - Bruno Lepri
-publication: ACM MM
 abstract: Recent works have shown Generative Adversarial Networks (GANs) to be
   particularly effective in image-to-image translations. However, in tasks such
   as body pose and hand gesture translation, existing methods usually require
@@ -29,12 +18,23 @@ abstract: Recent works have shown Generative Adversarial Networks (GANs) to be
   has addressed the gesture-to-gesture translation in the wild by requiring
   user-friendly annotations.
 draft: false
+url_pdf: https://arxiv.org/pdf/1907.05916.pdf
+title: " Gesture-to-Gesture Translation in the Wild via Category-Independent
+  Conditional Maps"
+publication_types:
+  - "1"
+authors:
+  - Yahui Liu
+  - Marco De Nadai
+  - Gloria Zen
+  - Nicu Sebe
+  - Bruno Lepri
+publication: ACM MM 2018
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 date: 2019-07-31T11:31:01.672Z
-url_code: "https://github.com/yhlleo/TriangleGAN"
-url_pdf: "https://arxiv.org/pdf/1907.05916.pdf"
+url_code: https://github.com/yhlleo/TriangleGAN
 ---
