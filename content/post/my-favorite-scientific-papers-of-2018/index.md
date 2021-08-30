@@ -28,7 +28,7 @@ My last year of Ph.D. is ended. Before knowing where and what to do next, it's t
 8. [The Moral Machine experiment](https://www.nature.com/articles/s41586-018-0637-6/)[^8]. Chapeau Iyad Rahwan! This paper describes the moral dilemma that autonomous driving is facing: in case of an accident, would you choose to put at risk the driver or the person on the street? 
       What if the person on the street crossed it with the red light? What if she is old? What if... These answers depend on the culture? We need only consider that Western culture usually spares young people, while Eastern culture does not! What's the best way to describe an academic paper? A youtuber ahaha! [Try it yourself](http://moralmachine.mit.edu/)
 
-{{youtube 9VVqYmf5s18}}
+{{< youtube 9VVqYmf5s18 >}}
 
 9. [Small cities face greater impact from automation](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2017.0946)[^9]. Are you interested in ethical questions about Artificial Intelligence? This paper is perfect for you. Some skills are at higher risk of computerization than others. However, education and a highly diversified job market are expected to help people to find a new job. Are all cities created equal? Do some cities face higher risk from automation? By using a nation-wide dataset of occupation, Frank et al. used an elegant and simple combination of entropy metrics to define this risk. Nice!
 10. [Introduction to probability](https://www.goodreads.com/book/show/21558327-introduction-to-probability)[^10]. This is not an article but a masterpiece of scientific literature! I strongly recommend this book for whoever wants to refine probability. I particularly like how simple is written!
