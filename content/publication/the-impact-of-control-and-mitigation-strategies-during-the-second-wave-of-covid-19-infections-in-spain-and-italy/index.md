@@ -29,10 +29,10 @@ title: The Impact of Control and Mitigation Strategies during the Second Wave of
 publication_types:
   - "3"
 authors:
-  - Marco De Nadai
-  - Kristof Roomp
-  - Bruno Lepri
-  - Nuria Oliver
+  - M. De Nadai
+  - K. Roomp
+  - B. Lepri
+  - N. Oliver
 publication: Preprint
 featured: false
 image:
