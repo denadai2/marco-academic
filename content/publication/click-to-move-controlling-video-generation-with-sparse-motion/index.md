@@ -1,14 +1,4 @@
 ---
-title: "Click to Move: Controlling Video Generation with Sparse Motion"
-publication_types:
-  - "1"
-authors:
-  - Pierfrancesco Ardino
-  - Marco De Nadai
-  - Bruno Lepri
-  - Elisa Ricci
-  - Stéphane Lathuilière
-publication: ICCV
 abstract: This paper introduces Click to Move (C2M), a novel framework for video
   generation where the user can control the motion of the synthesized video
   through mouse clicks specifying simple object trajectories of the key objects
@@ -23,12 +13,22 @@ abstract: This paper introduces Click to Move (C2M), a novel framework for video
   datasets, thus demonstrating the effectiveness of our GCN framework at
   modelling object interactions.
 draft: false
+url_pdf: https://arxiv.org/pdf/2108.08815.pdf
+title: "Click to Move: Controlling Video Generation with Sparse Motion"
+publication_types:
+  - "1"
+authors:
+  - Pierfrancesco Ardino
+  - Marco De Nadai
+  - Bruno Lepri
+  - Elisa Ricci
+  - Stéphane Lathuilière
+publication: ICCV 2021
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 date: 2021-08-27T14:48:23.959Z
-url_code: "https://github.com/PierfrancescoArdino/C2M"
-url_pdf: "https://arxiv.org/pdf/2108.08815.pdf"
+url_code: https://github.com/PierfrancescoArdino/C2M
 ---
