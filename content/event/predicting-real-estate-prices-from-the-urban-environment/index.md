@@ -1,11 +1,11 @@
 ---
 title: Predicting real estate prices from the urban environment
-abstract: Talk at DSAA
-location: DSAA, Turin, Italy
+abstract: Talk for a paper recently published at DSAA.
+location: Turin, Italy
 date: 2018-10-01T11:42:20.603Z
 date_end: 2018-10-01T11:42:00.000Z
 all_day: true
-event: DSAA
+event: DSAA 2018
 event_url: https://dsaa2018.isi.it/
 publishDate: 2021-08-30T11:42:20.645Z
 draft: false
