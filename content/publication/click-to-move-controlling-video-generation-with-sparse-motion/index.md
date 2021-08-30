@@ -18,11 +18,11 @@ title: "Click to Move: Controlling Video Generation with Sparse Motion"
 publication_types:
   - "1"
 authors:
-  - Pierfrancesco Ardino
-  - Marco De Nadai
-  - Bruno Lepri
-  - Elisa Ricci
-  - Stéphane Lathuilière
+  - P. Ardino
+  - <b>M. De Nadai</b>
+  - B. Lepri
+  - E. Ricci
+  - S. Lathuilière
 publication: ICCV 2021
 featured: false
 image:
