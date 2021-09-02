@@ -17,7 +17,7 @@ social:
     link: https://twitter.com/denadai2
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=_4-U61wAAAAJ
+    link: https://scholar.google.com/citations?user=FJ-QYSYAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/marcodena
