@@ -20,7 +20,7 @@ social:
     link: https://scholar.google.com/citations?user=FJ-QYSYAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/marcodena
+    link: https://github.com/denadai2
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/marcodenadai/
