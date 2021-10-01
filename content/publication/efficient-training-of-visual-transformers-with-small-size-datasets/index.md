@@ -22,7 +22,7 @@ draft: false
 url_pdf: https://arxiv.org/pdf/2106.03746.pdf
 title: Efficient Training of Visual Transformers with Small-Size Datasets
 publication_types:
-  - "3"
+  - "1"
 authors:
   - Y. Liu
   - E. Sangineto
@@ -30,7 +30,7 @@ authors:
   - N. Sebe
   - B. Lepri
   - M. De Nadai
-publication: Preprint
+publication: NeurIPS '21
 featured: false
 image:
   filename: screenshot-2021-08-19-at-10.40.36.png
