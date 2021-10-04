@@ -36,5 +36,5 @@ image:
   filename: screenshot-2021-08-19-at-10.40.36.png
   focal_point: Smart
   preview_only: false
-date: 2021-08-19T08:30:31.465Z
+date: 2021-10-04T11:47:15.577Z
 ---
