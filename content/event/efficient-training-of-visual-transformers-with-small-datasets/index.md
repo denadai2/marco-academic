@@ -15,3 +15,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;"><iframe src="https://speakerdeck.com/player/2f6e8aa032c242a281a7d277da323067" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;"></iframe></div>
+
