@@ -41,12 +41,12 @@ highlight_name: false
 title: Marco De Nadai
 email: ""
 ---
-I am an Applied Scientist at [Zalando](https://www.zalando.com), Berlin, Germany. In Zalando, I focus on outfit generation to inspire people and suggest new fashion styles. 
+I am a Research Scientist at [Spotify](http://www.spotify.com), in Copenhagen, Denmark. In Spotify, I focus on research about Personalization, trying to improve the listening experience of millions of customers.
 
-I also work on computer vision, unsupervised learning, and human behavioural understanding through multi-modal data. My work includes modelling human mobility and perception, photorealistic object manipulation and animation, video synthesis and image-to-image translation. My work has been published in multiple top conference papers and journals.
+I also work on representation learning, computer vision, unsupervised learning, and human behavioural understanding through multi-modal data. My work includes outfit generation, modelling human mobility and perception, photorealistic object manipulation and animation, video synthesis and image-to-image translation. My work has been published in multiple top conference papers and journals.
 
-Previously, I was a Research Scientist at the [Bruno Kessler Foundation (FBK)](https://www.fbk.eu/en/), in Trento, Italy. I am a PhD graduate from the University of Trento, Italy, where I worked with [Bruno Lepri](https://scholar.google.it/citations?user=JfcopG0AAAAJ&hl=en), at the Mobs Lab, and [Nicu Sebe](http://disi.unitn.it/~sebe/) at the Multimedia and Human Understanding Group [MHUG](http://mhug.disi.unitn.it/). 
+Previously, I have been Applied Scientist at [Zalando](https://www.zalando.com), Germany, and Research Scientist at the [Bruno Kessler Foundation (FBK)](https://www.fbk.eu/en/), Italy. I am a PhD graduate from the University of Trento, Italy, where I worked with [Bruno Lepri](https://scholar.google.it/citations?user=JfcopG0AAAAJ&hl=en), at the Mobs Lab, and [Nicu Sebe](http://disi.unitn.it/~sebe/) at the Multimedia and Human Understanding Group [MHUG](http://mhug.disi.unitn.it/). 
 
-I collaborated with numerous international institutions including MIT, MIT Media Lab, Nokia Bell Labs, Vodafone Group and Data-pop Alliance. Before joining FBK, I was a research intern at Vodafone, London, UK, and worked with Angelo Cardoso and [Nuria Oliver](https://www.nuriaoliver.com/). I also visited the Massachusetts Institute of Technology (MIT) and worked with [Marta C. Gonzalez](https://ced.berkeley.edu/ced/faculty-staff/marta-gonzalez) and [César Hidalgo](https://cesarhidalgo.com/).
+I collaborated with numerous international institutions, including MIT, MIT Media Lab, Nokia Bell Labs, Vodafone Group and Data-pop Alliance. Before joining FBK, I was a research intern at Vodafone, London, UK, and worked with Angelo Cardoso and [Nuria Oliver](https://www.nuriaoliver.com/). I also visited the Massachusetts Institute of Technology (MIT) and worked with [Marta C. Gonzalez](https://ced.berkeley.edu/ced/faculty-staff/marta-gonzalez) and [César Hidalgo](https://cesarhidalgo.com/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
